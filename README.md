@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zakariasemlali
 - 👀 I’m interested in Bash, pwsh, cmd, and Python 
-- 🌱 I’m currently learning asyncio module in Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python's asyncio module
+- 💞️ I’m looking to collaborate on sysytem administration
 - 📫 How to reach me @semlali2202
 
 <!---
